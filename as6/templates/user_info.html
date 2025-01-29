@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Info</title>
+    <link rel="stylesheet" type="text/css" href="static/style.css"> 
+</head>
+<body>
+    <div id="user-info-container">
+        <h1>User Info</h1>
+        <div id="user-info">
+            <p>Given Name: {{ user_info['names'][0]['givenName'] }}</p>
+            <p>Family Name: {{ user_info['names'][0]['familyName'] }}</p>
+            <p>State: {{ state }}</p>
+        </div>
+    </div>
+</body>
+</html>
