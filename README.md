@@ -49,7 +49,7 @@ cs493/
     ├── portfolio_project/
 ```
 
-This repository will serve as a **portfolio of cloud-based applications**, culminating in a **final project** that integrates all learned concepts into a fully functional cloud API.
+This repository will serve as a **portfolio of cloud-based applications**, culminating in a **portfolio project** that integrates all learned concepts into a fully functional cloud API.
 
 ---
 
